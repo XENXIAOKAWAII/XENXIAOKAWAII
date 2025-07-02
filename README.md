@@ -131,6 +131,7 @@ my library which used by people world wide
   _(Haram)_
 - [Mini Config](https://crates.io/crates/mini-config)
 - [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
+- [Ceberus_V1](https://github.com/XENXIAOKAWAII/Cerberus_V1)
 
 ### GitHub Stats
 
