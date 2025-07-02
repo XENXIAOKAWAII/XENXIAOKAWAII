@@ -132,6 +132,9 @@ my library which used by people world wide
 - [Mini Config](https://crates.io/crates/mini-config)
 - [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
 - [Ceberus_V1](https://github.com/XENXIAOKAWAII/Cerberus_V1)
+- [nextjs_clean_arch](https://github.com/XENXIAOKAWAII/nextjs_clean_arch)
+_(UCOK)_
+- [php_view_source_protection_devs](https://github.com/XENXIAOKAWAII/php_view_source_protection_devs)
 
 ### GitHub Stats
 
