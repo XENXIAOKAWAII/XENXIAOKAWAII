@@ -10,8 +10,7 @@
 
 
 ### Active Project
-- [Mini Gateway](https://github.com/zonblade/mini-gateway-rs)
-- [Cerberus](https://github.com/zonblade/cerberus)
+- [Hentoid BETA](https://github.com/XENXIAOKAWAII/Hentoid_V1BETA_OFC)
 
 ### Published Library
 
