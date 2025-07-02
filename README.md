@@ -3,30 +3,66 @@
 
 ---
 
-
-<a href="#">
-    <img src="https://static.wikia.nocookie.net/frieren/images/8/80/Frieren_anime_profile_3.png/revision/latest?cb=20230714215442" align="right" width="256" title="OPSWAT" alt="OPSWAT"/>
-</a>
-
-- MY ACTIVE PROJECT :
-
-- [Hentoid BETA](https://github.com/XENXIAOKAWAII/Hentoid_V1BETA_OFC)
-
-### Published Library
-
-my library which used by people world wide
-- [Mini Config](https://crates.io/crates/mini-config)
-- [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
-
-
-</br>
-</br>
-</br>
+<h1 align="center">Xmorinori 0_0</h1>
+<p align="center">
+  "KAWAII PEOPLE"<br>
+  <code>Member of <a href="https://retas.org" target="_blank">retas.org</a></code>
+   
+   PLEASE SUPPORT OUR COMMUNITY*
+</p>
+</p>
 
 ---
 
-## Favourite Language
-> yo, here are my favourite language (most favourite is from left)
+### About Me
+
+- Indie developer, struggling more cuz i just islamic boarding school student
+- Takanashi Hoshino (cuz my waifu) & Dark UI Enthusiast
+- Living between lines of terminal and virtual illusions  
+
+
+---
+
+### 📬 Contact & Socials
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:xiang1zhenn@gmail.com">
+        <img src="https://img.icons8.com/ios-glyphs/30/808080/gmail.png" alt="Email"/><br>Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lnk.ink/MyDiscord">
+        <img src="https://img.icons8.com/ios-glyphs/30/808080/discord-logo.png" alt="Discord"/><br>Discord
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lnk.ink/MyInstagram">
+        <img src="https://img.icons8.com/ios-glyphs/30/808080/instagram-new.png" alt="Instagram"/><br>Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lnk.ink/MyThreads">
+        <img src="https://img.icons8.com/ios-filled/30/808080/threads.png" alt="Threads"/><br>Threads
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tools & Languages (I like) 
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## Used Language
+> Yo, here are my used language (most used is from left)
 
 <table>
   <tr>
@@ -76,6 +112,33 @@ my library which used by people world wide
 ## Favourite Framework
 > I don't picky about framework.
 
+### Fun Zone
+
+> "I'm no hero, but I still want to protect this journey of code."  
+> _Even in mistakes, I still seek the truth... in code._
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/frieren/images/8/80/Frieren_anime_profile_3.png/revision/latest?cb=20230714215442"
+</p>
+
+---
+
+### Published Library
+
+my library which used by people world wide
+
+- [Hentoid BETA](https://github.com/XENXIAOKAWAII/Hentoid_V1BETA_OFC)
+  _(Haram)_
+- [Mini Config](https://crates.io/crates/mini-config)
+- [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XENXIAOKAWAII&show_icons=true&theme=tokyonight&hide_title=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENXIAOKAWAII&layout=compact&theme=tokyonight" height="165">
+</p>
+
 ## Certification
 > my certification, from ISC2, IBM, OPSWAT and BinBaz. JOKES
 
@@ -110,16 +173,3 @@ my library which used by people world wide
     </td>
   </tr>
 </table>
-
-### 👾 Xmorinori 0_0 License
-
-> 若(命運 == 不可逆) { return 勇氣; }
-
-傳說中的程式罪人,在錯誤中找尋真理 💻  
-🖤 程式即是詛咒,但我選擇與它共舞。
-
----
-
-📫 Reach me: xiang1zhenn@gmail.com  
-🔗 [Discord](https://lnk.ink/MyDiscord)｜[Instagram](https://lnk.ink/MyInstagram)｜[Threads](https://lnk.ink/MyThreads)
-
