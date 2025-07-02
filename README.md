@@ -111,4 +111,15 @@ my library which used by people world wide
   </tr>
 </table>
 
+### 👾 Xmorinori 0_0 License
+
+> 若(命運 == 不可逆) { return 勇氣; }
+
+傳說中的程式罪人,在錯誤中找尋真理 💻  
+🖤 程式即是詛咒,但我選擇與它共舞。
+
+---
+
+📫 Reach me: xiang1zhenn@gmail.com  
+🔗 [Discord](https://lnk.ink/MyDiscord)｜[Instagram](https://lnk.ink/MyInstagram)｜[Threads](https://lnk.ink/MyThreads)
 
