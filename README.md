@@ -141,8 +141,14 @@ _(popular)_
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XENXIAOKAWAII&show_icons=true&theme=tokyonight&hide_title=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENXIAOKAWAII&layout=compact&theme=tokyonight" height="165">
+  <!-- Stats dan Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=XENXIAOKAWAII&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENXIAOKAWAII&layout=compact&theme=tokyonight&hide=html,scss" height="165" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph dengan tema cyberpunk -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XENXIAOKAWAII&theme=dracula&area=true&hide_border=false" width="100%" />
 </p>
 
 ## Certification
