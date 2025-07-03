@@ -6,7 +6,7 @@
 <h1 align="center">Xmorinori 0_0</h1>
 <p align="center">
   "KAWAII PEOPLE"<br>
-  <code>Member of <a href="https://retas.org" target="_blank">retas.org</a></code>
+  <code>Member of <a href="https://retas.org" target="_blank">retas.org</a> & <a href="https://cdef.id" target="_blank">cdef.id</a></code>
    
    PLEASE SUPPORT OUR COMMUNITY*
 </p>
